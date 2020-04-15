@@ -1,0 +1,13 @@
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\bin\Debug\PAIN_WindowsForms.exe.config
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\bin\Debug\PAIN_WindowsForms.exe
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\bin\Debug\PAIN_WindowsForms.pdb
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\obj\Debug\PAIN_WindowsForms.csprojAssemblyReference.cache
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\obj\Debug\PAIN_WindowsForms.Properties.Resources.resources
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\obj\Debug\PAIN_WindowsForms.csproj.GenerateResource.cache
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\obj\Debug\PAIN_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\obj\Debug\PAIN_WindowsForms.exe
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\obj\Debug\PAIN_WindowsForms.pdb
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\obj\Debug\PAIN_WindowsForms.Parent.resources
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\obj\Debug\PAIN_WindowsForms.Filter.resources
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\obj\Debug\PAIN_WindowsForms.AddSong.resources
+C:\Users\rafal\source\repos\PAIN_WindowsForms\PAIN_WindowsForms\obj\Debug\PAIN_WindowsForms.GenreSelector.resources
